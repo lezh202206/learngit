@@ -6,4 +6,7 @@ Git is free software.
 modify readme
 
 Creating a new branch is quick
-Creating a new branch is quick & simple.
+
+
+The modified:
+Creating a new branch is quick and simple.
